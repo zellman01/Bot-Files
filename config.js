@@ -44,9 +44,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = 'Minaxet';
+exports.nick = '';
 
-exports.pass = 'BotUser001';
+exports.pass = '';
 
 exports.autoReloginDelay = 60 * 1000;
 
